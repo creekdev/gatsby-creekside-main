@@ -1,0 +1,3 @@
+ErrorDocument 404 https://www.creeksidelogistics.com/404
+ErrorDocument 403 https://www.creeksidelogistics.com/404
+ErrorDocument 500 https://www.creeksidelogistics.com/404
